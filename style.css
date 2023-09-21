@@ -1,0 +1,30 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://www.aerisweather.com/blog/wp-content/uploads/2020/09/whypayforweather_header.jpg);
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+input{
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.corpo{
+    width: 50%;
+    text-align: center;
+}
+
+img{
+    width: 25px;
+    
+}
+
+button{
+    margin-top: 30px;
+    border-radius: 10px;
+}
